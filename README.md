@@ -37,5 +37,5 @@ react-native run-ios
 - Frank Jun
 - Emre Kaynak
 - Saveen Toor
-- Naji Zhang
+- Naiji Zhang
 - Full-Stack Developer student's at Red Academy
